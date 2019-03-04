@@ -10,7 +10,11 @@ h1 {
 .home {
   background-image: url("images/the-flatiron-building.png");
 }
-#nav a {
+.nav a {
+  font-size: 18px;
+  color: white;
+}
+#nav {
   font-size: 18px;
   color: white;
 }
